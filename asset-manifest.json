@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MERN/static/css/main.52489696.css",
+    "main.js": "/MERN/static/js/main.3287f67c.js",
+    "static/media/Instructor.jpg": "/MERN/static/media/Instructor.fea9d13a254e673621af.jpg",
+    "static/media/Banner.mp4": "/MERN/static/media/Banner.452d7962e5d24b670e66.mp4",
+    "static/media/Logo-Light.jpg": "/MERN/static/media/Logo-Light.a381139bf3135b9fed78.jpg",
+    "static/media/timelineImage.jpg": "/MERN/static/media/timelineImage.9176551daf77401613d1.jpg",
+    "static/media/card2.jpg": "/MERN/static/media/card2.d3ea5762af59cb60e923.jpg",
+    "static/media/card3.jpg": "/MERN/static/media/card3.237b98c051b0c5ae4a41.jpg",
+    "static/media/bground.jpg": "/MERN/static/media/bground.08d4ebde7b53e0c98edd.jpg",
+    "static/media/card1.jpg": "/MERN/static/media/card1.0a7532b1966660aa7a58.jpg",
+    "static/media/Logo2.png": "/MERN/static/media/Logo2.e2fe08ee50757b5132a1.png",
+    "static/media/Logo1.png": "/MERN/static/media/Logo1.0e2e1b4041d2afda84ec.png",
+    "static/media/Logo4.png": "/MERN/static/media/Logo4.b53058553c048ef82812.png",
+    "static/media/Logo3.png": "/MERN/static/media/Logo3.959aff7089729645cf68.png",
+    "index.html": "/MERN/index.html",
+    "main.52489696.css.map": "/MERN/static/css/main.52489696.css.map",
+    "main.3287f67c.js.map": "/MERN/static/js/main.3287f67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52489696.css",
+    "static/js/main.3287f67c.js"
+  ]
+}
