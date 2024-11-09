@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body{
+  overflow-x:hidden;
+}
+
+.homepage_bg{
+  background:url("../src/assets/Images/bground.jpg") ;
+  
+}
+
+@media (max-width:550px) {
+  .container {
+    padding: 10px;
+  }
+  .greenbox_wala{
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+  }
+  .leadership_wala{
+    
+  }
+  .instructor_wala{
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+  }
+  .mbl_cardnav{
+    font-size: 10px;
+  }
+  .header,
+  .content,
+  .footer {
+    font-size: 14px;
+  }
+}
